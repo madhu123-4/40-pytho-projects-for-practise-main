@@ -1,1 +1,1 @@
-# 40-pytho-projects-for-practise-main
+# 40-python-projects-for-practise-main
